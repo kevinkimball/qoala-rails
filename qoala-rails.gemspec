@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Kevin Kimball"]
   s.email       = "kwkimball@gmail.com"
   s.files       = [
-                    "lib/qoala.rb",
+                    "lib/qoala-rails.rb",
                     "lib/qoala/railtie.rb",
                     "lib/qoala/routes.rb",
                     "lib/qoala/controller.rb"
